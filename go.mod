@@ -1,3 +1,3 @@
-module git.eth4.dev/golibs/colors
+module gopkg.in/gomisc/colors.v1
 
-go 1.18
+go 1.20
